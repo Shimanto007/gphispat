@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="1363" viewBox="0 0 1366 1363">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="eaf" width="1366" height="1363" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_500" data-name="Mask Group 500" clip-path="url(#clip-path)">
+    <g id="Group_18234" data-name="Group 18234" transform="translate(-397.149 -192.632)">
+      <ellipse id="Ellipse_483" data-name="Ellipse 483" cx="234" cy="268.91" rx="234" ry="268.91" transform="translate(197.149 1144.16)" fill="#dbb2b4" opacity="0.1"/>
+      <g id="Group_18483" data-name="Group 18483">
+        <path id="Path_8245" data-name="Path 8245" d="M234,0C363.235,0,468,120.3,468,268.7S454.423,857.283,325.188,857.283,0,417.092,0,268.7,104.765,0,234,0Z" transform="translate(1431.148 268.418)" fill="#ffafb2" opacity="0.1"/>
+      </g>
+      <path id="Path_8246" data-name="Path 8246" d="M245.439.473c143.606,8.3,266.748,123.673,275.046,257.7S538.308,788.884,394.7,780.586,8.739,362.148.441,228.123,101.833-7.825,245.439.473Z" transform="translate(676.119 0) rotate(60)" fill="#f8c5c7" opacity="0.1"/>
+    </g>
+  </g>
+</svg>

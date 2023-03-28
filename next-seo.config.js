@@ -1,0 +1,4 @@
+export default {
+    title: 'GPH Ispat',
+    description: 'GPH Ispat Ltd. One of the leaders of Bangladesh in manufacturing steel promises a super strong future and economy with its world –class products. Not only structural bar, but GPH Ispat Ltd. is also one of the producers of low & medium carbon and low alloy steel billets in Bangladesh, the main ingredient of manufacturing graded steel bar. As GPH is ensuring the highest quality products in Bangladesh as per various international and national standards, GPH steel billets and Bars is getting exported to other countries after nourishing national demand. The introduction of GPH Ispat Ltd. has all the potentials to take Bangladesh quite a few steps forward to a stronger, brighter tomorrow.'
+}
